@@ -98,5 +98,5 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ## Author
 
-**Mosyafa** — Computer Science student (AI/ML & Cybersecurity)
+**Mostafa** — Computer Science student (AI/ML & Cybersecurity)
 GitHub: [@Mostafa112-alt](https://github.com/Mostafa112-alt)
